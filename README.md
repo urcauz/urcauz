@@ -1,5 +1,5 @@
 <!-- Background animation -->
-<img src="https://raw.githubusercontent.com/rohitrox/rohitrox/main/github-profile-header-dark.svg" width="100%" alt="Header"/>
+<div align="center" style="background: url('https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif') center/cover no-repeat fixed; padding: 40px; border-radius: 15px;">
 
 <div align="center">
 
