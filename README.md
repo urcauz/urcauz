@@ -1,5 +1,5 @@
 <!-- Background animation -->
-<div align="center" style="background: url('https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif') center/cover no-repeat fixed; padding: 40px; border-radius: 15px;">
+<div align="center" style="background: url('https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0MDY0ODUsIm5iZiI6MTc0NDQwNjE4NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDExVDIxMTYyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkMDQ2OGJjYmQyYzU4Yzc5YjE0MjY2MDNlNjczNTliOWZjYzM5ZjgxYjRhNGZjMjZjMWY5MzIxZDQwMGRmZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WZnsd3CQwKazS_AkmNQaY4rKkFh4H60nKMVl2k7wusc') center/cover no-repeat fixed; padding: 40px; border-radius: 15px;">
 
 <div align="center">
 
