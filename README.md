@@ -1,73 +1,31 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:bb00ff&height=200&section=header&text=Hey%20I'm%20urcauz%20⚡&fontSize=40&fontColor=ffffff&animation=twinkling" />
+# 💫 About Me:
+👋 Hey, I'm urcauz<br>Welcome to my corner of GitHub! I'm a curious coder who loves building, learning, and connecting through tech.<br><br>🔭 I’m currently working on a personal web app project to improve productivity and task tracking.<br>👯 I’m looking to collaborate on open source tools, browser extensions, and anything JavaScript/TypeScript-based.<br>🤝 I’m looking for help with design/UI improvements — always happy to learn from creatives.<br>🌱 I’m currently learning Next.js, GraphQL, and digging deeper into full-stack best practices.<br>💬 Ask me about anything JavaScript-related, automating boring stuff, or project ideas.<br>⚡ Fun fact: I probably have more unfinished side projects than pairs of socks — but hey, that’s part of the journey.<br><br>📫 Reach out via github.com/urcauz or drop a message if something here caught your eye!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7768E&center=true&vCenter=true&multiline=true&width=435&lines=Tech+Wizard+%F0%9F%9A%80;Discord+Automation+Expert;Web+%26+Bot+Builder;Always+Building+%F0%9F%94%A5" />
-</p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uujW9psSvt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:urcauzz@gmail.com) 
 
-## 🚀 About Me
-Hi, I'm **urcauz** — a creative technologist who mixes automation, design, and code into smooth solutions.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=urcauz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=urcauz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=urcauz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🧠 Self-taught & always leveling up  
-- 🛠️ Specializing in Discord bots, automation, and VA tasks  
-- ⚙️ I automate everything I do more than once  
-- 💼 Open to freelance work and collabs
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=urcauz&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🧰 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,discord,notion,canva,vscode&theme=light" />
-</p>
-
-```text
-⚡ Discord Bots • Web Scraping • Web Design • Automation • Notion • Social Media • Virtual Assistance
-```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=urcauz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=urcauz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<details>
-  <summary><b>🌟 My Top Projects</b> (click to expand)</summary>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/Urcauz?country.x=IN&locale.x=en_GB) 
 
-### 📁 [discord-server-setup](https://github.com/urcauz/discord-server-setup)
-> 🚧 A full Discord server template with bots, ticketing, anti-spam, and permission roles
-
-### 🌐 [portfolio-site](https://github.com/urcauz/portfolio-site)
-> 👨‍💻 Simple responsive website built with HTML/CSS for your online presence
-
-### 🛠️ [web-scraper-demo](https://github.com/urcauz/web-scraper-demo)
-> 🔍 A lightweight script to extract emails and contact info from any page
-
-### 📝 [canva-templates](https://github.com/urcauz/canva-templates)
-> 🎨 Free-to-use templates for resumes, Instagram posts, or client social kits
-
-</details>
-
----
-
-## 📊 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urcauz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=urcauz&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urcauz&theme=onedark&margin-w=10&margin-h=10&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://discord.com/users/urcauz"><img src="https://img.shields.io/badge/Discord-urcauz%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Soon%20Available-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://urcauz.github.io/"><img src="https://img.shields.io/badge/Website-Coming%20Soon-2c3e50?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=urcauz&label=Profile+Views&color=0e75b6&style=flat" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
