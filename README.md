@@ -36,7 +36,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack (Currently learning these)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,cpp,python,html,css,mysql,firebase,vite,figma,lightroom" />
